@@ -1,0 +1,5 @@
+c:\users\510832\documents\visual studio 2012\Projects\classClarification\classClarification\bin\Debug\classClarification.exe.config
+c:\users\510832\documents\visual studio 2012\Projects\classClarification\classClarification\bin\Debug\classClarification.exe
+c:\users\510832\documents\visual studio 2012\Projects\classClarification\classClarification\bin\Debug\classClarification.pdb
+c:\users\510832\documents\visual studio 2012\Projects\classClarification\classClarification\obj\Debug\classClarification.exe
+c:\users\510832\documents\visual studio 2012\Projects\classClarification\classClarification\obj\Debug\classClarification.pdb
