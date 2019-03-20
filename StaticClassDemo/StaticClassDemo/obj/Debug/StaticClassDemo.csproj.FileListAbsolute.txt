@@ -1,0 +1,6 @@
+c:\users\510832\documents\visual studio 2012\Projects\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
+c:\users\510832\documents\visual studio 2012\Projects\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe
+c:\users\510832\documents\visual studio 2012\Projects\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
+c:\users\510832\documents\visual studio 2012\Projects\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csprojResolveAssemblyReference.cache
+c:\users\510832\documents\visual studio 2012\Projects\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.exe
+c:\users\510832\documents\visual studio 2012\Projects\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.pdb

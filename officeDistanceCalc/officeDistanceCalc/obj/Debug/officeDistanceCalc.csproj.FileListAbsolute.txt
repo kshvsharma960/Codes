@@ -1,0 +1,6 @@
+c:\users\510832\documents\visual studio 2012\Projects\officeDistanceCalc\officeDistanceCalc\bin\Debug\officeDistanceCalc.exe.config
+c:\users\510832\documents\visual studio 2012\Projects\officeDistanceCalc\officeDistanceCalc\bin\Debug\officeDistanceCalc.exe
+c:\users\510832\documents\visual studio 2012\Projects\officeDistanceCalc\officeDistanceCalc\bin\Debug\officeDistanceCalc.pdb
+c:\users\510832\documents\visual studio 2012\Projects\officeDistanceCalc\officeDistanceCalc\obj\Debug\officeDistanceCalc.csprojResolveAssemblyReference.cache
+c:\users\510832\documents\visual studio 2012\Projects\officeDistanceCalc\officeDistanceCalc\obj\Debug\officeDistanceCalc.exe
+c:\users\510832\documents\visual studio 2012\Projects\officeDistanceCalc\officeDistanceCalc\obj\Debug\officeDistanceCalc.pdb
