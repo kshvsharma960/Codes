@@ -1,0 +1,7 @@
+C:\Users\keshavsharma\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.csprojAssemblyReference.cache
+C:\Users\keshavsharma\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\keshavsharma\source\repos\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+C:\Users\keshavsharma\source\repos\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe
+C:\Users\keshavsharma\source\repos\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.pdb
+C:\Users\keshavsharma\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.exe
+C:\Users\keshavsharma\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.pdb
