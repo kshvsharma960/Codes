@@ -1,0 +1,7 @@
+C:\Users\keshavsharma\source\repos\ExtensionDemo\ExtensionDemo\bin\Debug\ExtensionDemo.exe.config
+C:\Users\keshavsharma\source\repos\ExtensionDemo\ExtensionDemo\bin\Debug\ExtensionDemo.exe
+C:\Users\keshavsharma\source\repos\ExtensionDemo\ExtensionDemo\bin\Debug\ExtensionDemo.pdb
+C:\Users\keshavsharma\source\repos\ExtensionDemo\ExtensionDemo\obj\Debug\ExtensionDemo.csprojAssemblyReference.cache
+C:\Users\keshavsharma\source\repos\ExtensionDemo\ExtensionDemo\obj\Debug\ExtensionDemo.csproj.CoreCompileInputs.cache
+C:\Users\keshavsharma\source\repos\ExtensionDemo\ExtensionDemo\obj\Debug\ExtensionDemo.exe
+C:\Users\keshavsharma\source\repos\ExtensionDemo\ExtensionDemo\obj\Debug\ExtensionDemo.pdb

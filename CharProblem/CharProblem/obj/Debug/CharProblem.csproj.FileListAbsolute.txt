@@ -1,0 +1,7 @@
+C:\Users\keshavsharma\source\repos\CharProblem\CharProblem\bin\Debug\CharProblem.exe.config
+C:\Users\keshavsharma\source\repos\CharProblem\CharProblem\bin\Debug\CharProblem.exe
+C:\Users\keshavsharma\source\repos\CharProblem\CharProblem\bin\Debug\CharProblem.pdb
+C:\Users\keshavsharma\source\repos\CharProblem\CharProblem\obj\Debug\CharProblem.csproj.CoreCompileInputs.cache
+C:\Users\keshavsharma\source\repos\CharProblem\CharProblem\obj\Debug\CharProblem.exe
+C:\Users\keshavsharma\source\repos\CharProblem\CharProblem\obj\Debug\CharProblem.pdb
+C:\Users\keshavsharma\source\repos\CharProblem\CharProblem\obj\Debug\CharProblem.csprojAssemblyReference.cache
