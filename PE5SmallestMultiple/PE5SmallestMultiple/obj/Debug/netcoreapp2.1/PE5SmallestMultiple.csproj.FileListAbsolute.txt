@@ -1,0 +1,11 @@
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\bin\Debug\netcoreapp2.1\PE5SmallestMultiple.deps.json
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\bin\Debug\netcoreapp2.1\PE5SmallestMultiple.runtimeconfig.json
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\bin\Debug\netcoreapp2.1\PE5SmallestMultiple.runtimeconfig.dev.json
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\bin\Debug\netcoreapp2.1\PE5SmallestMultiple.dll
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\bin\Debug\netcoreapp2.1\PE5SmallestMultiple.pdb
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\obj\Debug\netcoreapp2.1\PE5SmallestMultiple.csprojAssemblyReference.cache
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\obj\Debug\netcoreapp2.1\PE5SmallestMultiple.csproj.CoreCompileInputs.cache
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\obj\Debug\netcoreapp2.1\PE5SmallestMultiple.AssemblyInfoInputs.cache
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\obj\Debug\netcoreapp2.1\PE5SmallestMultiple.AssemblyInfo.cs
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\obj\Debug\netcoreapp2.1\PE5SmallestMultiple.dll
+C:\Users\keshavsharma\source\repos\PE5SmallestMultiple\PE5SmallestMultiple\obj\Debug\netcoreapp2.1\PE5SmallestMultiple.pdb
