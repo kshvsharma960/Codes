@@ -1,0 +1,11 @@
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\bin\Debug\netcoreapp2.1\PE3LargestPrimeFactor.deps.json
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\bin\Debug\netcoreapp2.1\PE3LargestPrimeFactor.runtimeconfig.json
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\bin\Debug\netcoreapp2.1\PE3LargestPrimeFactor.runtimeconfig.dev.json
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\bin\Debug\netcoreapp2.1\PE3LargestPrimeFactor.dll
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\bin\Debug\netcoreapp2.1\PE3LargestPrimeFactor.pdb
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\obj\Debug\netcoreapp2.1\PE3LargestPrimeFactor.csprojAssemblyReference.cache
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\obj\Debug\netcoreapp2.1\PE3LargestPrimeFactor.csproj.CoreCompileInputs.cache
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\obj\Debug\netcoreapp2.1\PE3LargestPrimeFactor.AssemblyInfoInputs.cache
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\obj\Debug\netcoreapp2.1\PE3LargestPrimeFactor.AssemblyInfo.cs
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\obj\Debug\netcoreapp2.1\PE3LargestPrimeFactor.dll
+C:\Users\keshavsharma\source\repos\PE3LargestPrimeFactor\PE3LargestPrimeFactor\obj\Debug\netcoreapp2.1\PE3LargestPrimeFactor.pdb

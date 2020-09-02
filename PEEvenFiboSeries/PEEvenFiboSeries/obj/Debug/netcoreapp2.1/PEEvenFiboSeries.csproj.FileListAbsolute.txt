@@ -1,0 +1,11 @@
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\bin\Debug\netcoreapp2.1\PEEvenFiboSeries.deps.json
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\bin\Debug\netcoreapp2.1\PEEvenFiboSeries.runtimeconfig.json
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\bin\Debug\netcoreapp2.1\PEEvenFiboSeries.runtimeconfig.dev.json
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\bin\Debug\netcoreapp2.1\PEEvenFiboSeries.dll
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\bin\Debug\netcoreapp2.1\PEEvenFiboSeries.pdb
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\obj\Debug\netcoreapp2.1\PEEvenFiboSeries.csprojAssemblyReference.cache
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\obj\Debug\netcoreapp2.1\PEEvenFiboSeries.csproj.CoreCompileInputs.cache
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\obj\Debug\netcoreapp2.1\PEEvenFiboSeries.AssemblyInfoInputs.cache
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\obj\Debug\netcoreapp2.1\PEEvenFiboSeries.AssemblyInfo.cs
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\obj\Debug\netcoreapp2.1\PEEvenFiboSeries.dll
+C:\Users\keshavsharma\source\repos\PEEvenFiboSeries\PEEvenFiboSeries\obj\Debug\netcoreapp2.1\PEEvenFiboSeries.pdb
